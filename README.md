@@ -1,5 +1,30 @@
 ### Hi there 👋
 
+My name is Katia, I am a junior fullstack developer.
+
+:mortar_board: Before studying as a developer I got an academic degree in arts and architecture. But I also worked many years with high end retail.
+
+:art: This is why I am specializing in creative websites, I like the feeling of making each project a unique one!
+
+I love people who thinks differently, knowing other people's opinions and other life experiences always leads to inner growth!
+
+Why do I like coding? Because it combines two of my biggest characteristics: being structured and creative at the same time. Funny, right? :ok_woman:
+
+---
+
+:computer: Currently using: 
+* HTML
+* CSS
+* SASS
+* Bootstrap
+* JavaScript
+* Python
+* Node.js
+* Express
+* Flask
+* Django
+* GSAP
+
 <!--
 **marlene32100/marlene32100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
