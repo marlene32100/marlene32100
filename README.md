@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Creativity](https://media4.giphy.com/media/Pj6TQs4cuQ7LAhebA5/giphy.gif?cid=ecf05e47tqlv1x5pkvg3lej1vffk3meeintve5jrlx455bbh&rid=giphy.gif&ct=g)
+
 My name is Katia, I am a junior fullstack developer.
 
 :mortar_board: Before studying as a developer I got an academic degree in arts and architecture. But I also worked many years with high end retail.
