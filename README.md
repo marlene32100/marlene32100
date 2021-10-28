@@ -17,6 +17,7 @@ Why do I like coding? Because it combines two of my biggest characteristics: bei
 :computer: Currently using: 
 * HTML
 * CSS
+* Pug
 * SASS
 * Bootstrap
 * JavaScript
