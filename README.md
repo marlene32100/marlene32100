@@ -27,6 +27,8 @@ Why do I like coding? Because it combines two of my biggest characteristics: bei
 * Flask
 * Django
 * GSAP
+* Gatsby
+* GraphQL
 
 <!--
 **marlene32100/marlene32100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
